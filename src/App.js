@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react';
 import './App.css';
 
-const DRIVE_LINK = 'https://drive.google.com/drive/folders/1N8xtmD_NZQXi8L5qyEnAgI0QEyaWvztp';
+const DRIVE_LINK = 'https://www.dropbox.com/request/08evLh3abKuI7YF5xZqw';
 
 // ---- İllüstrasyon: Davetiyedeki yüzük + çiçek ----
 
